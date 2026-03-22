@@ -402,11 +402,8 @@ A partir del valor numérico obtenido, el sistema categoriza el estado del pacie
 - Ejecutar los tests: Clic en Run Tests usando el IDE o con Maven: `mvn test`
 - Ejecutar los tests con informe de cobertura (previamente configurado en pom.xml): `mvn test`
 
-</details>
 
-  
-<details>
-<summary><b>Especificación</b></summary>
+## Especificación
 
 ### Casos de uso 
 Diagrama de casos de uso de la calculadora de salud. Los casos de uso implementados en la Práctica 1 se muestran en **azul** y en **rojo** los que no.
@@ -416,5 +413,3 @@ Diagrama de casos de uso de la calculadora de salud. Los casos de uso implementa
 * [Especificación Caso de Uso 1: BMI (Versión Full)](./doc/CU_BMI.txt)
 * [Especificación Caso de Uso 2: IBW](./doc/CU_IBW.txt)
 * [Especificación Caso de Uso 3: MAP](./doc/CU_MAP.txt)
-
-</details>
